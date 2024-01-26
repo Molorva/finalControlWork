@@ -1,0 +1,15 @@
+/Users/daraorlova/Desktop/ГБ/finalControlWork/finalControlWork/bin/Debug/net8.0/finalControlWork
+/Users/daraorlova/Desktop/ГБ/finalControlWork/finalControlWork/bin/Debug/net8.0/finalControlWork.deps.json
+/Users/daraorlova/Desktop/ГБ/finalControlWork/finalControlWork/bin/Debug/net8.0/finalControlWork.runtimeconfig.json
+/Users/daraorlova/Desktop/ГБ/finalControlWork/finalControlWork/bin/Debug/net8.0/finalControlWork.dll
+/Users/daraorlova/Desktop/ГБ/finalControlWork/finalControlWork/bin/Debug/net8.0/finalControlWork.pdb
+/Users/daraorlova/Desktop/ГБ/finalControlWork/finalControlWork/obj/Debug/net8.0/finalControlWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daraorlova/Desktop/ГБ/finalControlWork/finalControlWork/obj/Debug/net8.0/finalControlWork.AssemblyInfoInputs.cache
+/Users/daraorlova/Desktop/ГБ/finalControlWork/finalControlWork/obj/Debug/net8.0/finalControlWork.AssemblyInfo.cs
+/Users/daraorlova/Desktop/ГБ/finalControlWork/finalControlWork/obj/Debug/net8.0/finalControlWork.csproj.CoreCompileInputs.cache
+/Users/daraorlova/Desktop/ГБ/finalControlWork/finalControlWork/obj/Debug/net8.0/finalControlWork.sourcelink.json
+/Users/daraorlova/Desktop/ГБ/finalControlWork/finalControlWork/obj/Debug/net8.0/finalControlWork.dll
+/Users/daraorlova/Desktop/ГБ/finalControlWork/finalControlWork/obj/Debug/net8.0/refint/finalControlWork.dll
+/Users/daraorlova/Desktop/ГБ/finalControlWork/finalControlWork/obj/Debug/net8.0/finalControlWork.pdb
+/Users/daraorlova/Desktop/ГБ/finalControlWork/finalControlWork/obj/Debug/net8.0/finalControlWork.genruntimeconfig.cache
+/Users/daraorlova/Desktop/ГБ/finalControlWork/finalControlWork/obj/Debug/net8.0/ref/finalControlWork.dll
