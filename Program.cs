@@ -1,17 +1,31 @@
 ﻿
-CreateArray ();
+Console.WriteLine("Введите количество элементов массива");
+int n = Convert.ToInt32(Console.ReadLine());
+string[] array = new string[n];
 
-void CreateArray()
+CreateStringArray(array);
+PrintArray(array);
+
+void CreateStringArray(string[] arr)
 {
-    Console.WriteLine("Введите количество элементов массива");
-    int n = Convert.ToInt32(Console.ReadLine());
-
-    string[] array = new string[n];
-    for (int i = 0; i < n; i++)
+    for (int i = 0; i < arr.Length; i++)
     {
         Console.WriteLine($"Введите {i + 1} элемент массива");
         array[i] = Console.ReadLine()!;
     }
-
-    Console.WriteLine(string.Join(",", array));
+}
+void PrintArray(string[] arr)
+{
+    Console.Write("[");
+    for (int i = 0; i < arr.Length; i++)
+    {
+        if (arr[0] == " ")
+            Console.Write("");
+            
+        else if (i == arr.Length - 1)
+            Console.Write($"'{arr[i]}'");
+        else 
+            Console.Write($"'{arr[i]}', ");
+    }
+    Console.Write("]");
 }
